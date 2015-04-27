@@ -1,5 +1,9 @@
 abc
 DEF
+<<<<<<< HEAD
 hijk
 dan1 change 1
 dan2 chagne 2
+=======
+develop
+>>>>>>> develop
